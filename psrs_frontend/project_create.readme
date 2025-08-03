@@ -1,0 +1,4 @@
+flutter pub global activate get_cli
+get create project
+get create page:login
+flutter pub add get_storage

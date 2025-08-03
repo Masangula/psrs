@@ -1,0 +1,6 @@
+mkdir psrs-recruitment-backend
+cd psrs-recruitment-backend
+npm init -y
+npm install express mysql2 bcrypt jsonwebtoken dotenv cors
+npm install --save-dev nodemon
+sudo npm install -g nodemon
